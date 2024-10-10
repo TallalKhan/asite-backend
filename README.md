@@ -93,11 +93,6 @@ To run this project, you will need to add the following environment variables to
   GET /get-monthly-stats
 ```
 
-| Req Body   | Type     | Description                           |
-| :--------- | :------- | :------------------------------------ |
-| `event`    | `string` | **Required**. Unique event identifier |
-| `nTickets` | `number` | **Required**. Number of tickets       |
-
 ## API Documentation
 
 [Postman Documentation](https://documenter.getpostman.com/view/5346627/2sAXxQeXiY)
